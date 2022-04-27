@@ -1,8 +1,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kangsm0903&show_icons=true&theme=hightcontrast)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kangsm0903)](https://solved.ac/kangsm0903)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsm0903&layout=Demo&theme=highcontrast)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kangsm0903)](https://solved.ac/kangsm0903) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsm0903&layout=compact&theme=highcontrast)
 
 <!--
 **kangsm0903/kangsm0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
