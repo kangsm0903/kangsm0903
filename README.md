@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kangsm0903&show_icons=true&theme=hightcontrast)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kangsm0903&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kangsm0903)](https://solved.ac/kangsm0903) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsm0903&layout=compact&theme=highcontrast)
